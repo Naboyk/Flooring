@@ -1,0 +1,9 @@
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\bin\Debug\SGFlooring.Data.dll
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\bin\Debug\SGFlooring.Data.pdb
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\bin\Debug\SGFlooring.Models.dll
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\bin\Debug\SGFlooring.Models.pdb
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\obj\Debug\SGFlooring.Data.csprojAssemblyReference.cache
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\obj\Debug\SGFlooring.Data.csproj.CoreCompileInputs.cache
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\obj\Debug\SGFlooring.Data.csproj.CopyComplete
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\obj\Debug\SGFlooring.Data.dll
+C:\Users\naboy\Documents\_repos\nicholas-boyk-individual-work\SGFlooring\SGFlooring.Data\obj\Debug\SGFlooring.Data.pdb
